@@ -27,11 +27,16 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true&cache_seconds=1800" height="160" />
-  &nbsp;&nbsp;
+<table>
+<tr>
+<td>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KTejas99&theme=blue_navy&hide_border=true" height="160" />
-</p>
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true&cache_seconds=1800" height="160" />
+</td>
+</tr>
+</table>
 
 ---
 

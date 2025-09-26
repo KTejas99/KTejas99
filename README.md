@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 - Enthusiastically building projects & exploring new tech  
-- Passionate about web development, APIs, and clean code  
-- Always learning — from patterns to architecture & best practices  
-- Fun fact: I enjoy turning coffee into code ☕
+- Passionate about **web development, APIs, and clean code**  
+- Always learning — from **patterns to architecture & best practices**  
+- ⚡ Fun fact: I enjoy turning coffee into code ☕
 
 ---
 
@@ -30,29 +30,14 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,git,github,docker" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KTejas99&show_icons=true&theme=blue_navy&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KTejas99&layout=compact&langs_count=8&theme=blue_navy&hide_border=true" height="180" />
-</p>
-
----
-
-### ⚡ Fun / Extra Widgets
+### 📊 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KTejas99&theme=blue_navy&hide_border=true" height="180" />
 </p>
 
 ---
 
-### 🐍 Snake (or something fun)
+### 🐍 Snake Animation
 <div align="center">
   <img src="https://raw.githubusercontent.com/KTejas99/KTejas99/output/snake.svg" alt="Snake animation" />
 </div>

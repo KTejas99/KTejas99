@@ -1,3 +1,17 @@
+<h2 align="center">
+  Hi there 
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/Hi.gif?raw=true" 
+       alt="hi gif" 
+       width="28" 
+       style="vertical-align: middle;" />
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
+</p>
+
+---
+
 <h1 align="center">
   Hey, I’m Tejas 👋  
   <img src="https://github.com/KTejas99/KTejas99/blob/main/assets/Hi.gif?raw=true" alt="hi gif" width="32" />
@@ -9,16 +23,8 @@
 
 ---
 
-### 🚀 About Me
-- Enthusiastically building projects & exploring new tech  
-- Passionate about **web development, APIs, and clean code**  
-- Always learning — from **patterns to architecture & best practices**  
-- ⚡ Fun fact: I enjoy turning coffee into code ☕
-
----
-
 ### 🌐 Let’s Connect
-<p align="left">
+<p align="center">
   <a href="https://x.com/Khurd_Tejas" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="35" />
   </a>
@@ -30,7 +36,14 @@
 
 ---
 
-### 📊 GitHub Streak
+### 📊 Languages & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true&cache_seconds=1800" 
+       height="160" 
+       style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;" 
+       alt="languages graph" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KTejas99&theme=blue_navy&hide_border=true" height="180" />
 </p>

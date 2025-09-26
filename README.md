@@ -1,20 +1,20 @@
-<h1 align="center">
+<h1>
   Hey, I’m Tejas  
   <img src="https://github.com/KTejas99/KTejas99/blob/main/assets/Hi.gif?raw=true" alt="waving gif" width="32" />
 </h1>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Advocate;Constant+Learner;Code+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
 </p>
 
 ---
 
 ### 🌐 Let’s Connect
-<p align="center">
+<p>
   <a href="https://x.com/Khurd_Tejas" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="35" />
   </a>
@@ -27,7 +27,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true&cache_seconds=1800" height="160" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KTejas99&theme=blue_navy&hide_border=true" height="160" />

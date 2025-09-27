@@ -12,19 +12,10 @@
 
 ---
 
-## 🎯 What I'm Up To
+## GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <div align="center">
@@ -35,41 +26,8 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user&width=600" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejas-Khurd-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Tejas-Khurd-dev?label=Followers&style=social" alt="followers" />
-</div>
-
-<div align="center">
-  
-### ⭐ Don't forget to star some repositories if you find them interesting! ⭐
-
 </div>

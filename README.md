@@ -7,18 +7,18 @@
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Developer animation"/>
-  <img align="right" src="https://img.shields.io/badge/Status-Available_for_Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Work Status" />
+  <img align="right" src="https://img.shields.io/badge/Code-Never_Stops-FF6B6B?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Coder Badge" />
 </div>
 
 ---
 
 ### Performance Metrics
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" width="495" alt="GitHub streak statistics"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Khurd-dev&theme=github_dark&hide_border=true" alt="Development overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Khurd-dev&theme=github_dark&hide_border=true" width="495" alt="Development overview"/>
 
 ---
 

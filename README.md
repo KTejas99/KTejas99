@@ -6,19 +6,18 @@
 [![Linkedin: tejas-khurd](https://img.shields.io/badge/-tejas--s--khurd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejas-s-khurd/)](https://www.linkedin.com/in/tejas-s-khurd/)
 [![Twitter: Tejas](https://img.shields.io/twitter/follow/Khurd_Tejas?style=social)](https://twitter.com/Khurd_Tejas)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="40"> Game Repositories <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="35">
 
-```javascript
-const tejas = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-  tools: ["React", "Node.js", "Express", "MongoDB", "Git", "Docker"],
-  architecture: ["REST APIs", "microservices", "responsive design"],
-  currentFocus: "Full Stack Development & Open Source",
-  funFact: "I love Pacman games and retro gaming! 🎮"
-}
-```
+🎮 **Pacman Clone** - *Classic arcade game with modern twist* <img src="https://media.giphy.com/media/kbVhh7Nr6HL1UnkOWm/giphy.gif" width="25">  
+🕹️ **Snake Game** - *Retro snake game in JavaScript* <img src="https://media.giphy.com/media/fvT2lZ7UFAvHbdKvTe/giphy.gif" width="25">  
+🎯 **Tic Tac Toe** - *AI-powered tic tac toe game* <img src="https://media.giphy.com/media/26FLgGTPUDH6UGAbm/giphy.gif" width="25">  
+🚀 **Space Invaders** - *Pixel art space shooter* <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">  
 
 <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/pacman-contribution-graph.svg" alt="Pacman eating my contributions"/>
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> GitHub Stats <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tejas-Khurd-dev&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 🎮</em>

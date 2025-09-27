@@ -1,0 +1,66 @@
+name: 👻 Update Spectral Activities
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-spectral-activity:
+    runs-on: ubuntu-latest
+    name: 🌙 Manifest Ghostly Updates
+    
+    steps:
+    - name: 👻 Summon Repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        
+    - name: 🔮 Setup Node.js Enchantment
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+        
+    - name: 📊 Generate Spectral Activity
+      run: |
+        # Create ghostly activity messages
+        GHOST_MESSAGES=(
+          "👻 Summoning new repositories from the void..."
+          "🌙 Weaving mystical code spells in JavaScript"
+          "⚡ Manifesting ethereal pull requests"
+          "🔮 Conjuring otherworldly documentation"
+          "💀 Haunting code reviews with spectral wisdom"
+          "🕯️ Illuminating dark corners of legacy code"
+          "🌫️ Materializing through merge conflicts"
+          "✨ Enchanting databases with spectral queries"
+          "🕸️ Spinning webs of elegant architecture"
+          "🌟 Blessing repositories with otherworldly commits"
+        )
+        
+        # Select random ghost messages
+        SELECTED_MESSAGES=""
+        for i in {1..5}; do
+          INDEX=$((RANDOM % ${#GHOST_MESSAGES[@]}))
+          SELECTED_MESSAGES="${SELECTED_MESSAGES}${GHOST_MESSAGES[$INDEX]}\n"
+        done
+        
+        # Update README with new spectral activities
+        sed -i "/<!--GHOST_ACTIVITY_START-->/,/<!--GHOST_ACTIVITY_END-->/c\\
+        <!--GHOST_ACTIVITY_START-->\\
+        \`\`\`\\
+        $SELECTED_MESSAGES\`\`\`\\
+        <!--GHOST_ACTIVITY_END-->" README.md
+        
+    - name: 🌙 Commit Spectral Changes
+      run: |
+        git config --local user.email "ghost@spectral.dev"
+        git config --local user.name "Spectral Bot 👻"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No spectral changes to commit"
+        else
+          git commit -m "👻 Update spectral activities - $(date)"
+          git push
+        fi

@@ -1,62 +1,89 @@
-# ⚡ SHADOW MONARCH ⚡
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&background=0A0A0A&center=true&vCenter=true&width=500&lines=SUNG+JIN-WOO;SHADOW+MONARCH;KTEJAS99;ARISE" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,4,5,24&height=200&section=header&text=SUNG%20JIN-WOO&fontSize=80&fontColor=00D4FF&animation=fadeIn&fontAlignY=65&desc=SHADOW%20MONARCH&descSize=35&descAlignY=95"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=ARISE&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+KTEJAS99+%E2%9A%A1;%F0%9F%91%91+SHADOW+MONARCH+%F0%9F%91%91;%F0%9F%97%A1%EF%B8%8F+DIGITAL+HUNTER+%F0%9F%97%A1%EF%B8%8F" />
 </div>
 
-## 💀 **SHADOW ARSENAL**
+<br>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-⚔️_Shadow_Blade-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-🗡️_Iron_Body-00BFFF?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111)
-![CSS3](https://img.shields.io/badge/CSS3-🛡️_Shadow_Armor-0080FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![C](https://img.shields.io/badge/C-⚡_Lightning_Strike-4169E1?style=for-the-badge&logo=c&logoColor=white&labelColor=111111)
-
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 📊 **HUNTER STATS**
+## 💀 **SHADOW ARMY ARSENAL**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktejas99&layout=compact&langs_count=8&theme=tokyonight&bg_color=0a0a0a&title_color=00d9ff&text_color=ffffff&border_color=1e90ff&card_width=350"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ktejas99&theme=dark&background=0a0a0a&ring=00d9ff&fire=1e90ff&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=1e90ff&card_width=350"/>
+  <img src="https://skillicons.dev/icons?i=py,html,css,c&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-Shadow_Extraction-306998?style=for-the-badge&logo=python&logoColor=FFE873&labelColor=000000&color=1E3A8A"/>
+  <img src="https://img.shields.io/badge/HTML5-Digital_Framework-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000&color=1E3A8A"/>
+  <img src="https://img.shields.io/badge/CSS3-Shadow_Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000&color=1E3A8A"/>
+  <img src="https://img.shields.io/badge/C-System_Level-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000&color=1E3A8A"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 📊 **MONARCH STATISTICS**
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktejas99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&border_radius=10&card_width=320"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ktejas99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideNums=C9D1D9&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ktejas99&custom_title=Shadow%20Monarch%20Activity&bg_color=0d1117&color=00d4ff&line=1e3a8a&point=00d4ff&area_color=1e3a8a&area=true&hide_border=true&radius=10" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 🏆 **HUNTER ACHIEVEMENTS**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ktejas99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 ## ⚡ **SHADOW EXTRACTION**
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake.svg">
-    <img alt="shadow army consuming commits" src="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## 🏆 **MONARCH ACHIEVEMENTS**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ktejas99&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" width="100%"/>
-</div>
-
-## 🌐 **SHADOW REALM**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼_Professional_Gate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-📧_Shadow_Mail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your.email@domain.com)
-
+  <img src="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=80&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
----
+## 🌐 **CONNECT WITH THE SHADOW MONARCH**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=20&duration=4000&pause=1500&color=00D9FF&background=0A0A0A&center=true&vCenter=true&width=400&lines=⚡+I+ALONE+AM+THE+LEVELED+ONE+⚡;💀+SHADOW+MONARCH+RISES+💀" alt="Footer" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Shadow_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Gate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-Digital_Realm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,4,5,24&height=120&section=footer&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=2000&color=00D4FF&background=000000&center=true&vCenter=true&width=500&lines=%E2%9A%A1+THE+WEAKEST+HUNTER+NO+MORE+%E2%9A%A1;%F0%9F%91%91+SHADOW+MONARCH+ETERNAL+%F0%9F%91%91;%F0%9F%92%80+LEVEL+UP+NEVER+ENDS+%F0%9F%92%80" />
 </div>

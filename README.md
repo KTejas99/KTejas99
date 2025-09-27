@@ -1,77 +1,62 @@
-# 🐉 THE DRAGON'S REALM 🐉
+# ⚡ SHADOW MONARCH ⚡
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&background=0D1117&center=true&vCenter=true&width=600&lines=🔥+KTEJAS99+🔥;⚔️+CODE+DRAGON+⚔️;🐲+GUARDIAN+OF+REPOS+🐲" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&background=0A0A0A&center=true&vCenter=true&width=500&lines=SUNG+JIN-WOO;SHADOW+MONARCH;KTEJAS99;ARISE" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DRAGON%20CODER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=120&section=header&text=ARISE&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-## 🔥 **FLAME BEARER'S ARSENAL**
+## 💀 **SHADOW ARSENAL**
 
 <div align="center">
-  
-![Python](https://img.shields.io/badge/Python-🐍_Dragon's_Tongue-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-⚡_Lightning_Breath-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-🌀_Wind_Magic-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-🌲_Forest_Power-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-🐋_Sea_Serpent-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-⚔️_Shadow_Blade-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-🗡️_Iron_Body-00BFFF?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111)
+![CSS3](https://img.shields.io/badge/CSS3-🛡️_Shadow_Armor-0080FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![C](https://img.shields.io/badge/C-⚡_Lightning_Strike-4169E1?style=for-the-badge&logo=c&logoColor=white&labelColor=111111)
 
 </div>
 
-## ⚔️ **BATTLE STATISTICS**
+## 📊 **HUNTER STATS**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktejas99&layout=compact&langs_count=8&theme=dracula&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&border_color=ff6b35"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ktejas99&theme=dark&background=0d1117&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=ff6b35"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktejas99&layout=compact&langs_count=8&theme=tokyonight&bg_color=0a0a0a&title_color=00d9ff&text_color=ffffff&border_color=1e90ff&card_width=350"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ktejas99&theme=dark&background=0a0a0a&ring=00d9ff&fire=1e90ff&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=1e90ff&card_width=350"/>
 </div>
 
-## 🐲 **DRAGON'S FLIGHT PATH**
+## ⚡ **SHADOW EXTRACTION**
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake.svg">
+    <img alt="shadow army consuming commits" src="https://raw.githubusercontent.com/Ktejas99/Ktejas99/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-## 🔥 **REALM ACTIVITY**
+## 🏆 **MONARCH ACHIEVEMENTS**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ktejas99&theme=redical&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ktejas99&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" width="100%"/>
 </div>
 
-## 🏆 **LEGENDARY ACHIEVEMENTS**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ktejas99&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
-## 💀 **VISITORS IN THE LAIR**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ktejas99&label=🐉+DRAGONS+SUMMONED&color=ff6b35&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ktejas99?label=🗡️+FOLLOWERS&style=for-the-badge&color=ff6b35&labelColor=0d1117" alt="Followers" />
-</div>
-
-## 🌋 **CONTACT THE DRAGON**
+## 🌐 **SHADOW REALM**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗_Professional_Realm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-🐦_Sky_Domain-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-📧_Dragon's_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼_Professional_Gate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-📧_Shadow_Mail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your.email@domain.com)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&background=0D1117&center=true&vCenter=true&width=600&lines=⚡+Forged+in+Code+Fire+⚡;🐲+Dragon+Never+Sleeps+🐲;🔥+Always+Burning+Bright+🔥" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=20&duration=4000&pause=1500&color=00D9FF&background=0A0A0A&center=true&vCenter=true&width=400&lines=⚡+I+ALONE+AM+THE+LEVELED+ONE+⚡;💀+SHADOW+MONARCH+RISES+💀" alt="Footer" />
 </div>

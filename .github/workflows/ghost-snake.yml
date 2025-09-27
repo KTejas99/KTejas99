@@ -1,0 +1,36 @@
+name: 🐍 Generate Spectral Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Every 12 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-spectral-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+    - name: 👻 Summon Repository
+      uses: actions/checkout@v3
+      
+    - name: 🐍 Generate Phantom Snake
+      uses: Platane/snk/svg-only@v3
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/spectral-snake.svg
+          dist/spectral-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=#7B68EE&color_dots=#9400D3,#8A2BE2,#6A5ACD,#483D8B,#2F1B69
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 🌙 Deploy to Spectral Branch
+      uses: crazy-max/ghaction-github-pages@v3.1.0
+      with:
+        target_branch: spectral-output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

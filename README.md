@@ -1,79 +1,108 @@
 <div align="center">
 
-# 🎮 LOADING PLAYER... 
+# 🐉 AWAKENING THE DRAGON... 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=100&lines=TEJAS+KHURD;FULL+STACK+SORCERER;ARCHITECT+OF+DIGITAL+REALMS" alt="Epic Title Animation"/>
 
 </div>
 
-<h1>
-  Hey there! I'm Tejas 
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/Hi.gif?raw=true" alt="waving gif" width="32" />
-</h1>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Developer animation"/>
-</div>
-
-### 🚀 **Software Engineer** 
-### 🌟 **Code Magician**  
-### ⚡ **Bug Terminator** 
-
-<br/>
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Khurd_Tejas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-s-khurd/)
-
----
-
-<div align="center">
-
-## 🎯 **ACHIEVEMENT UNLOCKED** 
-
-</div>
+## 🔥 **THE LEGEND BEGINS**
 
 ```javascript
-class TejasKhurd {
+class DragonCoder {
   constructor() {
-    this.username = "Tejas-Khurd-dev";
-    this.title = "Software Engineer 🧙‍♂️";
-    this.location = "India 🇮🇳";
+    this.name = "Tejas Khurd";
+    this.realm = "Digital Architecture 🏰";
+    this.power = "OVER 9000! ⚡";
+    this.species = "Full Stack Dragon 🐲";
   }
 
-  getCurrentStats() {
+  unleashPowers() {
     return {
-      🎮 games: ["Pacman Master", "Code Combat", "Debug Detective"],
-      ⚔️ weapons: ["HTML", "CSS", "Python", "JavaScript"],
-      🛡️ shields: ["Git", "GitHub"],
-      🏆 achievements: ["Open Source Hero", "Bug Slayer", "Deploy Master"],
-      🎯 currentMission: "Building epic web applications"
+      🗡️ "Frontend Mastery": ["React", "Vue", "Angular"],
+      ⚔️ "Backend Domination": ["Node.js", "Python", "Express"],
+      🛡️ "Database Sorcery": ["MongoDB", "PostgreSQL", "Redis"],
+      🏹 "DevOps Magic": ["Docker", "AWS", "CI/CD"],
+      🔮 "Languages": ["JavaScript", "Python", "TypeScript"],
+      ⚡ "Superpowers": ["Problem Solving", "System Design", "Leadership"]
     };
   }
 
-  dailyRoutine() {
-    return "☕ Coffee → 💻 Code → 🔄 Repeat";
+  dragonBreath() {
+    return "💨 Transforming coffee into scalable solutions";
   }
 }
+
+const tejas = new DragonCoder();
+console.log(tejas.unleashPowers());
 ```
+
+### 🎯 **CURRENT QUEST**
+```
+🏰 Building enterprise-grade applications
+⚔️ Slaying complex algorithms  
+🐛 Hunting and eliminating bugs
+🚀 Deploying to production realms
+📈 Scaling systems to infinity
+```
+
+### 🏆 **LEGENDARY ACHIEVEMENTS**
+- 🥇 **Full Stack Mastery** - React + Node.js Champion
+- 🥈 **Open Source Knight** - Contributing to global projects  
+- 🥉 **Problem Solver** - LeetCode Warrior
+- 💎 **System Architect** - Designing scalable solutions
+- ⚡ **Performance Wizard** - Optimizing for speed & efficiency
+
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-## 🎮 **GAME ZONE** 
+### 🌟 **CONNECT WITH THE DRAGON**
 
-| 🎯 Game Title | 📊 Status | ⭐ Difficulty | 🔗 Action | 🏆 Score |
-|---------------|-----------|---------------|-----------|----------|
-| **🟡 PACMAN ADVENTURE** | ✅ COMPLETE | ████████████ 100% | [▶️ PLAY](https://github.com/Tejas-Khurd-dev) | 🥇 LEGENDARY |
-| **🐍 SNAKE EVOLUTION** | 🔄 BUILDING | ████████░░░░ 75% | [🔨 VIEW](https://github.com/Tejas-Khurd-dev) | 🥈 EPIC |
-| **🚀 SPACE INVADERS** | 💡 PLANNING | ████░░░░░░░░ 25% | [📋 SOON](https://github.com/Tejas-Khurd-dev) | 🥉 RARE |
-| **⚔️ BATTLE ROYALE** | 🎯 CONCEPT | ░░░░░░░░░░░░ 0% | [💭 IDEA](https://github.com/Tejas-Khurd-dev) | 📝 COMMON |
-| **🎲 PUZZLE MASTER** | 🔥 LIVE | ████████████ 100% | [🎮 DEMO](https://github.com/Tejas-Khurd-dev) | 💎 MYTHIC |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-s-khurd/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Khurd_Tejas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-### 🏅 **LEADERBOARD STATS**
-```
-🎮 TOTAL GAMES CREATED: 5
-🏆 COMPLETION RATE: 40% 
-⚡ ACTIVE PROJECTS: 2
-🔥 STREAK: 15 DAYS
-💪 SKILL LEVEL: INTERMEDIATE → ADVANCED
-```
+### 🔥 **BATTLE STATS**
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=dark&hide_border=true&stroke=FF6B35&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&background=0D1117&sideNums=FFFFFF&dates=FFFFFF" alt="Dragon Streak"/>
+
+### ⚡ **POWER LEVELS**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FFD700" alt="Language Mastery"/>
+
+</div>
+
+### 🎮 **LEGENDARY PROJECTS**
+
+| Project | Tech Stack | Status |
+|---------|------------|---------|
+| **🐉 Dragon E-commerce** | React + Node.js | 🔥 LIVE |
+| **⚡ Lightning Chat** | Socket.io + MongoDB | 🚀 DEPLOYED |
+| **🏰 Portfolio Empire** | Next.js + Tailwind | ✨ MASTERPIECE |
+| **🗡️ Task Slayer** | MERN Stack | 💎 PREMIUM |
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🐲 **THE DRAGON'S CONTRIBUTION LAIR**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -81,11 +110,79 @@ class TejasKhurd {
 
 <div align="center">
 
-## 📊 **PLAYER STATS** 
+## 💀 **SKILLS GRAVEYARD** 
+*Where Technologies Come to Be Mastered*
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=radical&hide_border=true&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&background=0D1117" alt="GitHub Streak Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -93,24 +190,11 @@ class TejasKhurd {
 
 <div align="center">
 
-## 🎮 **CONTRIBUTION ARCADE** 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=The+Dragon+Awakens+at+Dawn+%E2%98%80%EF%B8%8F;Codes+Through+the+Night+%F0%9F%8C%99;Deploys+Before+Coffee+%E2%98%95;Ready+to+Conquer+Your+Next+Project+%F0%9F%9A%80" alt="Epic Footer"/>
 
-<img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/pacman-contribution-graph.svg" width="100%" alt="Pacman eating my contributions"/>
+### 🔥 **HIRE THE DRAGON** 🔥
+*"In a world full of developers, be a Dragon Coder"*
 
-</div>
-
----
-
-<div align="center">
-
-## **READY PLAYER TWO?** 
-
-**Let's team up and build something LEGENDARY!** 
-
-*Hit that follow button and let's start an epic coding adventure!* 🚀
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Tejas-Khurd-dev&color=blueviolet&style=for-the-badge&label=PLAYERS+VISITED"/>
+<img src="https://komarev.com/ghpvc/?username=Tejas-Khurd-dev&color=FF6B35&style=for-the-badge&label=DRAGONS+SUMMONED"/>
 
 </div>

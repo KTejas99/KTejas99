@@ -86,7 +86,7 @@ const TejasSpirit = {
 ## 💀 **THE GHOST'S GRAVEYARD** 💀
 *Where Code Goes to Live Forever*
 
-![Contribution Ghost](https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/github-contribution-grid-ghost.svg)
+![Contribution Ghost](https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/github-contribution-grid-snake-dark.svg)
 
 ## 🔮 **DARK ARSENAL**
 

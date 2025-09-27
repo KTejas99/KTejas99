@@ -1,52 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Tejas!
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=Open+Source+Advocate+%F0%9F%9A%80;Passionate+Developer+%F0%9F%92%BB;Constant+Learner+%F0%9F%93%9A;Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=600&height=80&lines=Open+Source+Advocate+%F0%9F%9A%80;Passionate+Developer+%F0%9F%92%BB;Constant+Learner+%F0%9F%93%9A;Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-</div>
 
----
-
-## 🌟 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-
-```javascript
-const tejas = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    passions: ["Open Source", "Innovation", "Learning"],
-    currentlyWorking: "Building amazing web experiences",
-    funFact: "I debug with console.log() and I'm not ashamed!",
-    motto: "Code with passion, create with purpose ✨"
-};
-```
-
-- 🔭 I'm currently working on **exciting open source projects**
-- 🌱 I'm constantly learning **new technologies and frameworks**
-- 👯 I'm looking to collaborate on **innovative solutions**
-- 💬 Ask me about **web development, JavaScript, and coffee ☕**
-- ⚡ Fun fact: **I believe every bug is just an undocumented feature!**
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend Magic ✨
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,figma&theme=dark" />
-
-### Backend Power ⚡
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,mongodb,mysql,postgresql,redis&theme=dark" />
-
-### DevOps & Tools 🔧
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode,postman&theme=dark" />
-
-</div>
 
 ---
 
@@ -66,30 +25,10 @@ const tejas = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Khurd-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Khurd-dev&theme=tokyo-night&hide_border=true&border_radius=15" width="100%" />
 </div>
 
----
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejas-Khurd-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&border_radius=15)](https://x.com/Khurd_Tejas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15)](https://www.linkedin.com/in/tejas-s-khurd/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=15)](https://github.com/Tejas-Khurd-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=15)](mailto:your.email@example.com)
-
-</div>
 
 ---
 

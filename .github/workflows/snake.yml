@@ -1,0 +1,46 @@
+name: 🐲 Daily Dragon Wisdom
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-dragon-quote:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 🔥 Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: 🐉 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: ⚔️ Generate Dragon Quote
+        run: |
+          QUOTES=(
+            "🐲 Code like a dragon: fierce, focused, and never backing down"
+            "🔥 Every bug is just a challenge waiting to be conquered"
+            "⚡ Dragons don't follow paths, they create them"
+            "🌋 Forge your code in the fire of determination"
+            "🗡️ A true coder's strength lies in solving the impossible"
+            "🛡️ Defend your repositories like a dragon guards its treasure"
+            "🔥 Innovation is the dragon's breath that melts old limitations"
+            "⚡ Rise above the clouds of complexity"
+          )
+          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+          echo "DRAGON_QUOTE=$RANDOM_QUOTE" >> $GITHUB_ENV
+          
+      - name: 🐲 Update README with Dragon Wisdom
+        run: |
+          sed -i "s/🐲.*Dragon.*🐲/${{ env.DRAGON_QUOTE }}/g" README.md
+          
+      - name: 💥 Commit Dragon Wisdom
+        run: |
+          git config --local user.email "dragon@realm.com"
+          git config --local user.name "Ancient Dragon"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🐉 Daily dragon wisdom updated"
+          git push

@@ -23,8 +23,8 @@
 ## ⚔️ **BATTLE STATISTICS**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ktejas99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&icon_color=ff6b35&border_color=ff6b35"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktejas99&layout=compact&langs_count=8&theme=dracula&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&border_color=ff6b35"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ktejas99&theme=dark&background=0d1117&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=ff6b35"/>
 </div>
 
 ## 🐲 **DRAGON'S FLIGHT PATH**

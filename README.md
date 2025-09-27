@@ -1,81 +1,24 @@
-<div align="center">
-  <h1>
-    🟡 GAME START 🟡
-  </h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=PLAYER+ONE%3A+TEJAS;LEVEL%3A+SOFTWARE+ENGINEER;MISSION%3A+EATING+BUGS+%26+COLLECTING+COMMITS;READY%3F+PRESS+START!" alt="Pacman typing effect" />
-  
-  <h2>
-    Hey, I'm Tejas! 
-    <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/Hi.gif?raw=true" alt="waving gif" width="32" />
-  </h2>
-</div>
+<h2> Hi, I'm Tejas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="200">
+<p><em>Software Engineer & Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Open Source Contributor <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> 
+</em></p>
 
-```
-🟡 ← · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-                                                                
-    PLAYER: Tejas-Khurd-dev                    HIGH SCORE: ∞   
-    CLASS:  Software Engineer                  LEVEL: Senior   
-    POWER:  Full Stack Development            LIVES: 3        
-                                                                
-    SPECIAL ABILITIES:                                          
-    🔵 Bug Hunting     🔴 Code Optimization                     
-    🟠 Problem Solving 🟢 Open Source Magic                     
-                                                                
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · →
+[![Linkedin: tejas-khurd](https://img.shields.io/badge/-tejas--s--khurd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejas-s-khurd/)](https://www.linkedin.com/in/tejas-s-khurd/)
+[![Twitter: Tejas](https://img.shields.io/twitter/follow/Khurd_Tejas?style=social)](https://twitter.com/Khurd_Tejas)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const tejas = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "Git", "Docker"],
+  architecture: ["REST APIs", "microservices", "responsive design"],
+  currentFocus: "Full Stack Development & Open Source",
+  funFact: "I love Pacman games and retro gaming! 🎮"
+}
 ```
 
-<div align="center">
-  
-### 🕹️ GAME STATS 🕹️
+<img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/pacman-contribution-graph.svg" alt="Pacman eating my contributions"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=dark&hide_border=true&stroke=FFFF00&ring=FFFF00&fire=FF0000&currStreakLabel=FFFF00&background=000000" alt="GitHub streak stats"/>
-
-### 🎮 CONTRIBUTION MAZE 🎮
-*Watch Pacman eat through my contributions!*
-
-<img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/pacman-contribution-graph.svg" alt="Pacman eating contributions"/>
-
-</div>
-
----
-
-<div align="center">
-  
-### 👾 POWER-UPS & ACHIEVEMENTS 👾
-
-```
-🟡 PACMAN SKILLS:
-├── 🔵 Eating Bugs Daily
-├── 🔴 Collecting Green Squares  
-├── 🟠 Avoiding Ghost Errors
-└── 🟢 Speed Running Deployments
-
-🏆 CURRENT MISSION:
-└── Building scalable solutions & contributing to open source
-```
-
-### 🕹️ CONNECT TO MULTIPLAYER 🕹️
-
-<a href="https://x.com/Khurd_Tejas">
-  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/tejas-s-khurd/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-</a>
-
-<br><br>
-
-**🎵 WAKA WAKA WAKA... Ready Player Two? 🎵**
-
-<img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="60" alt="Pacman gif"/>
-*<sub>Always hungry for new coding challenges!</sub>*
-
----
-
-```
-GAME OVER? NEVER!
-INSERT COIN TO CONTINUE... 🪙
-```
-
-</div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 🎮</em>

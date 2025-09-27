@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Khurd-dev&theme=github-compact&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=58A6FF" alt="Contribution activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Khurd-dev&theme=github_dark&hide_border=true" alt="Development overview"/>
 </div>
 
 ---

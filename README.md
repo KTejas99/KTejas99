@@ -1,172 +1,207 @@
-# 👻 Welcome to the Spectral Realm of Ktejas99 👻
+# 🔐 Complete Guide: Setting Up GitHub Secrets & Tokens for Spectral Profile
 
-<div align="center">
-  
-```
-                    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-                    ░                                                ░
-                    ░    ████████╗███████╗     ██╗ █████╗  ██████╗   ░
-                    ░    ╚══██╔══╝██╔════╝     ██║██╔══██╗██╔════╝   ░
-                    ░       ██║   █████╗       ██║███████║╚█████╗    ░
-                    ░       ██║   ██╔══╝  ██   ██║██╔══██║ ╚═══██╗   ░
-                    ░       ██║   ███████╗╚█████╔╝██║  ██║██████╔╝   ░
-                    ░       ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝╚═════╝    ░
-                    ░                                                ░
-                    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+## 🌙 Step-by-Step Secret Configuration
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### 1. 🚀 GITHUB_TOKEN (Usually Auto-Available)
 
-### 🌙 *Haunting the digital realm since forever...* 🌙
+**Good News**: `GITHUB_TOKEN` is automatically provided by GitHub Actions in most cases!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&random=false&width=600&lines=👻+Spectral+Developer+Manifesting+Code;🔮+Weaving+Digital+Enchantments;💀+Haunting+Repositories+Near+You;⚡+Conjuring+Ethereal+Solutions)](https://git.io/typing-svg)
+#### ✅ **No Action Needed (Recommended)**
+- GitHub automatically provides `${{ secrets.GITHUB_TOKEN }}` 
+- Has standard permissions for your repository
+- Works for most profile features
 
-</div>
+#### 🔧 **If You Need Custom Permissions** (Advanced)
+Sometimes you might need a Personal Access Token with specific permissions:
 
----
-
-## 🕯️ The Ethereal Chronicles
-
-<details>
-<summary>🌟 Click to unveil the spectral secrets...</summary>
-
-```ascii
-        🕯️                    🕯️                    🕯️
-           |                     |                     |
-      .-'"""""'-.           .-'"""""'-.           .-'"""""'-.
-     /           \         /           \         /           \
-    |  👻 ABOUT  👻 |      |  👻 SKILLS 👻 |     |  👻 STATS 👻 |
-     \           /         \           /         \           /
-      '-.......-'           '-.......-'           '-.......-'
-           |                     |                     |
-        🕯️                    🕯️                    🕯️
-```
-
-</details>
+1. Go to **GitHub.com** → Click your **profile picture** (top right)
+2. Navigate to **Settings** → **Developer settings** (bottom left)
+3. Click **Personal access tokens** → **Tokens (classic)**
+4. Click **Generate new token** → **Generate new token (classic)**
+5. Configure your token:
+   ```
+   Name: GitHub Profile Token
+   Expiration: 90 days (or custom)
+   
+   Select scopes:
+   ☑️ repo (Full repository access)
+   ☑️ workflow (Update GitHub Actions workflows)
+   ☑️ read:user (Read user profile data)
+   ☑️ user:email (Access user email addresses)
+   ```
+6. Click **Generate token**
+7. **⚠️ IMPORTANT**: Copy the token immediately (you won't see it again!)
 
 ---
 
-<div align="center">
+### 2. 🔮 METRICS_TOKEN (Required for Advanced Spectral Metrics)
 
-### 👻 Spectral Visitor Count 👻
-![Visitor Count](https://profile-counter.glitch.me/Ktejas99/count.svg)
+This token is needed for the advanced metrics workflow to access detailed GitHub data.
 
-### 🔮 Mystical Badges of Power 🔮
+#### 📋 **Step-by-Step Creation:**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ktejas99&style=for-the-badge&color=blueviolet&label=SOULS+ENCOUNTERED)
-[![GitHub followers](https://img.shields.io/github/followers/Ktejas99?style=for-the-badge&color=9400D3&labelColor=000000&logo=github)](https://github.com/Ktejas99)
-[![Years Badge](https://badges.pufler.dev/years/Ktejas99?style=for-the-badge&color=9400D3&labelColor=000000)](https://github.com/Ktejas99)
+1. **Go to GitHub Settings**:
+   - Click your profile picture → **Settings**
+   - Scroll down to **Developer settings**
+   - Click **Personal access tokens** → **Tokens (classic)**
 
-</div>
+2. **Generate New Token**:
+   - Click **Generate new token** → **Generate new token (classic)**
+   
+3. **Configure Token Settings**:
+   ```
+   Token Name: Spectral Metrics Token
+   Expiration: 90 days (recommended) or No expiration
+   
+   Required Scopes for Metrics:
+   ☑️ repo (Full repository access)
+   ☑️ read:user (Read all user profile data)
+   ☑️ read:org (Read org data - if you're in organizations)
+   ☑️ user:email (Access user email addresses)
+   
+   Optional (for enhanced metrics):
+   ☑️ read:project (Read project data)
+   ☑️ public_repo (Access public repositories)
+   ```
 
----
-
-## 🌫️ Haunted Tech Arsenal 🌫️
-
-<div align="center">
-
-### 👻 Languages from Beyond 👻
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🕸️ Spectral Frameworks 🕸️
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🌙 Otherworldly Tools 🌙
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
+4. **Generate & Copy**:
+   - Click **Generate token**
+   - **📋 Copy the token immediately** - you won't see it again!
+   - It looks like: `ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
 
 ---
 
-## 📊 Spectral Analytics from the Beyond
+### 3. 🕸️ Adding Secrets to Your Repository
 
-<div align="center">
+#### **Method 1: Via GitHub Web Interface** (Recommended)
 
-### 👻 GitHub Hauntings 👻
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ktejas99&theme=dark&hide_border=true&background=0D1117&stroke=9400D3&ring=9400D3&fire=FF6B35&currStreakLabel=9400D3)](https://git.io/streak-stats)
+1. **Navigate to Your Profile Repository**:
+   - Go to `github.com/Ktejas99/Ktejas99` (your profile repo)
 
-### 🌟 Ethereal Statistics 🌟
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ktejas99&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9400D3&icon_color=9400D3&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ktejas99&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9400D3&text_color=ffffff"/>
+2. **Access Repository Settings**:
+   - Click **Settings** tab (top navigation bar)
+   - If you don't see Settings, make sure you're the owner of the repository
 
-### 🏆 Spectral Achievements 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ktejas99&theme=darkhub&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+3. **Navigate to Secrets**:
+   - In the left sidebar, expand **Secrets and variables**
+   - Click **Actions**
 
-</div>
+4. **Add Your Secrets**:
+   
+   **For METRICS_TOKEN**:
+   - Click **New repository secret**
+   - **Name**: `METRICS_TOKEN`
+   - **Secret**: Paste your personal access token
+   - Click **Add secret**
 
----
+   **For Custom GITHUB_TOKEN** (if needed):
+   - Click **New repository secret**  
+   - **Name**: `GITHUB_TOKEN`
+   - **Secret**: Paste your personal access token
+   - Click **Add secret**
 
-## 🕯️ Recent Spectral Activities 🕯️
+#### **Method 2: Via GitHub CLI** (Advanced)
 
-<div align="center">
+```bash
+# Install GitHub CLI first: https://cli.github.com/
 
-<!--GHOST_ACTIVITY_START-->
-```
-👻 Summoning new repositories from the void...
-🌙 Weaving mystical code spells in JavaScript  
-⚡ Manifesting ethereal pull requests
-🔮 Conjuring otherworldly documentation
-💀 Haunting code reviews with spectral wisdom
-```
-<!--GHOST_ACTIVITY_END-->
+# Login to GitHub
+gh auth login
 
-### 📈 Contribution Specters 📈
-[![Ktejas99's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ktejas99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9400D3&line=9400D3&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# Navigate to your profile repository
+cd /path/to/Ktejas99
 
-</div>
+# Add METRICS_TOKEN
+gh secret set METRICS_TOKEN
 
----
-
-## 🌙 Connect with the Phantom 🌙
-
-<div align="center">
-
-### 💫 Spectral Communication Channels 💫
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-
-### 🕸️ Haunted Projects & Repositories 🕸️
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ktejas99&repo=your-repo-name&theme=dark&hide_border=true&bg_color=0D1117&title_color=9400D3&icon_color=9400D3&text_color=ffffff)](https://github.com/Ktejas99/your-repo-name)
-
-</div>
-
----
-
-<div align="center">
-
-### 👻 Spectral Quote of Eternity 👻
-
-> *"In the ethereal realm of code, where logic meets magic,  
-> I weave digital spells that transcend the mortal plane."*  
-> — **The Phantom Developer** 🌙
-
----
-
-```
-                    🕯️ Thanks for visiting my haunted realm! 🕯️
-                           May your code be forever blessed
-                          with spectral elegance and power...
-                                     👻✨🌙✨👻
+# Add custom GITHUB_TOKEN (if needed)
+gh secret set GITHUB_TOKEN
 ```
 
-![Bottom Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+---
 
-</div>
+### 4. 🌟 Verification & Troubleshooting
+
+#### ✅ **How to Verify Secrets Are Added**:
+
+1. Go to your repository **Settings** → **Secrets and variables** → **Actions**
+2. You should see:
+   ```
+   Repository secrets:
+   • METRICS_TOKEN ✓
+   • GITHUB_TOKEN ✓ (if you added a custom one)
+   ```
+
+#### 🔧 **Common Issues & Solutions**:
+
+**Issue**: "GITHUB_TOKEN doesn't have permission"
+- **Solution**: The auto-provided token usually works. If not, create a custom one with `repo` and `workflow` scopes.
+
+**Issue**: "METRICS_TOKEN not found"
+- **Solution**: Make sure you named it exactly `METRICS_TOKEN` (case-sensitive)
+
+**Issue**: "Token has insufficient permissions"
+- **Solution**: Recreate the token with all required scopes checked
+
+**Issue**: "Workflows not running"
+- **Solution**: 
+  1. Check that GitHub Actions are enabled in Settings → Actions → General
+  2. Ensure repository is public or you have GitHub Pro/Team
+  3. Verify secrets are correctly named and saved
+
+#### 🚨 **Security Best Practices**:
+
+- ✅ **Set token expiration** (90 days recommended)
+- ✅ **Use minimal required scopes**
+- ✅ **Regularly rotate tokens**
+- ✅ **Never commit tokens to code**
+- ✅ **Monitor token usage in Settings → Developer settings**
 
 ---
 
-<div align="center">
-  <i>✨ "Where shadows dance, code comes alive" ✨</i>
-</div>
+### 5. 📊 Testing Your Setup
+
+After adding secrets, test the workflows:
+
+1. **Manual Trigger**:
+   - Go to **Actions** tab in your repository
+   - Click on any workflow
+   - Click **Run workflow** → **Run workflow**
+
+2. **Check Workflow Logs**:
+   - Click on the running workflow
+   - Expand steps to see if tokens are working
+   - Look for authentication errors
+
+3. **Expected Results**:
+   - Spectral activity updates in README
+   - Snake animation generated
+   - Metrics SVG created
+   - Profile views tracking working
+
+---
+
+### 6. 🎯 Final Checklist
+
+Before your spectral profile goes live:
+
+- [ ] Profile repository created (`username/username`)
+- [ ] README.md added to repository root
+- [ ] All 4 workflow files in `.github/workflows/`
+- [ ] `METRICS_TOKEN` secret added with correct permissions
+- [ ] Repository is public
+- [ ] GitHub Actions enabled
+- [ ] Personal links updated in README
+- [ ] First workflow run completed successfully
+
+---
+
+### 🌙 You're All Set!
+
+Once these secrets are configured, your spectral GitHub profile will automatically:
+- 👻 Update ghost activities every 6 hours
+- 🐍 Generate haunted snake animations every 12 hours  
+- 📊 Create advanced metrics daily
+- 👁️ Track spectral visitors continuously
+
+Your otherworldly developer presence will be **fully automated** and **absolutely unique**! ✨🔮👻

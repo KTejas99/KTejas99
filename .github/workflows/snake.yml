@@ -1,46 +1,82 @@
-name: 🐲 Daily Dragon Wisdom
+name: 🐲 Dragon Fire Breathing Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Daily at midnight UTC
+    - cron: "0 */8 * * *" # Every 8 hours
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
-  update-dragon-quote:
+  generate-dragon-fire:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     
     steps:
-      - name: 🔥 Checkout Repository
+      - name: 🔥 Checkout Dragon's Lair
         uses: actions/checkout@v3
         
-      - name: 🐉 Setup Node.js
-        uses: actions/setup-node@v3
+      - name: 🐉 Generate Dragon Fire Breath
+        uses: Platane/snk/svg-only@v3
         with:
-          node-version: '18'
-          
-      - name: ⚔️ Generate Dragon Quote
+          github_user_name: Ktejas99
+          outputs: |
+            dist/dragon-fire-breath.svg
+            dist/dragon-fire-breath-dark.svg?palette=github-dark&color_snake=#ff6b35&color_dots=#ff4500,#ff6b35,#ff8c42,#ffa500,#ffb84d
+            
+      - name: 🔥 Create Dragon Fire Animation
         run: |
-          QUOTES=(
-            "🐲 Code like a dragon: fierce, focused, and never backing down"
-            "🔥 Every bug is just a challenge waiting to be conquered"
-            "⚡ Dragons don't follow paths, they create them"
-            "🌋 Forge your code in the fire of determination"
-            "🗡️ A true coder's strength lies in solving the impossible"
-            "🛡️ Defend your repositories like a dragon guards its treasure"
-            "🔥 Innovation is the dragon's breath that melts old limitations"
-            "⚡ Rise above the clouds of complexity"
-          )
-          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
-          echo "DRAGON_QUOTE=$RANDOM_QUOTE" >> $GITHUB_ENV
+          # Create custom dragon fire SVG with animated flames
+          cat > dist/dragon-fire-custom.svg << 'EOF'
+          <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="fireGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" style="stop-color:#FF4500;stop-opacity:1" />
+                <stop offset="50%" style="stop-color:#FF6B35;stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+              </linearGradient>
+              <filter id="glow">
+                <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+                <feMerge> 
+                  <feMergeNode in="coloredBlur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+            
+            <!-- Animated Dragon Head -->
+            <g transform="translate(50,100)">
+              <circle cx="0" cy="0" r="20" fill="url(#fireGrad)" filter="url(#glow)">
+                <animate attributeName="r" values="15;25;15" dur="2s" repeatCount="indefinite"/>
+              </circle>
+              <text x="0" y="5" text-anchor="middle" fill="white" font-size="16">🐲</text>
+            </g>
+            
+            <!-- Fire Breath Trail -->
+            <g>
+              <rect x="70" y="95" width="30" height="10" fill="#FF4500" opacity="0.8">
+                <animate attributeName="width" values="30;80;30" dur="3s" repeatCount="indefinite"/>
+              </rect>
+              <rect x="100" y="90" width="40" height="20" fill="#FF6B35" opacity="0.6">
+                <animate attributeName="width" values="40;120;40" dur="3s" repeatCount="indefinite"/>
+              </rect>
+              <rect x="140" y="85" width="50" height="30" fill="#FFA500" opacity="0.4">
+                <animate attributeName="width" values="50;150;50" dur="3s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+            
+            <text x="50%" y="50" text-anchor="middle" fill="#FF6B35" font-size="24" font-weight="bold">
+              🔥 DRAGON BURNS THROUGH CODE 🔥
+              <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+            </text>
+          </svg>
+          EOF
           
-      - name: 🐲 Update README with Dragon Wisdom
-        run: |
-          sed -i "s/🐲.*Dragon.*🐲/${{ env.DRAGON_QUOTE }}/g" README.md
-          
-      - name: 💥 Commit Dragon Wisdom
-        run: |
-          git config --local user.email "dragon@realm.com"
-          git config --local user.name "Ancient Dragon"
-          git add README.md
-          git diff --staged --quiet || git commit -m "🐉 Daily dragon wisdom updated"
-          git push
+      - name: 🗡️ Deploy to Dragon's Realm
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

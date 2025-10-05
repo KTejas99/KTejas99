@@ -30,7 +30,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **About Me**
 
-<img align="right" alt="Coding" width="280" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/cute_girl.gif?raw=true">
+<img align="right" alt="Coding" width="260" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/cute_girl.gif?raw=true">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
 <br>

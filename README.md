@@ -33,7 +33,7 @@
 <img align="right" alt="Coding" width="351" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
+<img height = "351" src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
 <br>
 
 

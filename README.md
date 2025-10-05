@@ -38,8 +38,6 @@
 
 
 
----
-
 ### Development Timeline
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline visualization"/> 

@@ -1,54 +1,49 @@
-<h1>
+<h2 align="center">
   Hey, I’m Tejas  
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/Hi.gif?raw=true" alt="waving gif" width="32" />
-</h1>
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/Hi.gif?raw=true" alt="waving gif" width="24" />
+</h2>
 
-### Computer Engineer & Open Source Contributor
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=800&color=2F81F7&center=false&vCenter=true&width=500&lines=Building+scalable+solutions;Open+source+advocate;Problem+solver" alt="Professional tagline" />
+<p align="center">
+  <sub>Computer Engineer & Open Source Contributor</sub><br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=2F81F7&center=true&vCenter=true&width=350&lines=Building+scalable+solutions;Open+source+advocate;Problem+solver" alt="Professional tagline" />
+</p>
 
-### Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-<br>
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **About Me**
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" />
+</p>
 
-<img align="right" alt="Coding" width="351" height = "351" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
-
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
-<br>
-
-
-
-### Development Timeline
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline visualization"/> 
+### 💡 About Me
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" height="140" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895812-1e86d788-24c2-455c-8c47-8512f16f27a3.gif" height="140" />
 </div>
 
 ---
 
-<sub>
-  <strong>Connect:</strong> •
+### ⏳ Development Timeline
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline visualization" width="500" />
+</p>
+
+---
+
+<p align="center">
+  <sub><strong>Connect:</strong> •
   <a href="https://x.com/Khurd_Tejas">Twitter</a> • 
   <a href="https://www.linkedin.com/in/tejas-s-khurd/">LinkedIn</a> •
   <a href="https://tejas-khurd.vercel.app/">Portfolio</a>
-</sub>
-make everything small and arrange in minimal
+  </sub>
+</p>

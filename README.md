@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/vocaloidchibi.png?raw=true" width="70%" alt="Vocaloid Chibi Image" />
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/vocaloidchibi.png?raw=true" width="60%" alt="Vocaloid Chibi Image" />
 </div>

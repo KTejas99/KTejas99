@@ -37,9 +37,8 @@
 
 ---
 
-### Activity Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Khurd-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FF6B35" width="100%" alt="Contribution Graph" />
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/vocaloidchibi.png?raw=true" width="100%" alt="Vocaloid Chibi Image" />
 </div>
 
 ---

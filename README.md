@@ -35,10 +35,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
 <br>
 
-<div align="center">
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/vocaloidchibi.png?raw=true" width="100%" alt="Vocaloid Chibi Image" />
-</div>
-
 ---
 
 ### Development Timeline
@@ -48,9 +44,6 @@
 
 ---
 
-<sub>
-  <strong>Connect:</strong> •
-  <a href="https://x.com/Khurd_Tejas">Twitter</a> • 
-  <a href="https://www.linkedin.com/in/tejas-s-khurd/">LinkedIn</a> •
-  <a href="https://tejas-khurd.vercel.app/">Portfolio</a>
-</sub>
+<div align="center">
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/vocaloidchibi.png?raw=true" width="80%" alt="Vocaloid Chibi Image" />
+</div>

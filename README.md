@@ -23,7 +23,7 @@
 </div>
 <br>
 <img align="right" alt="Coding" width="251" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/coder.gif?raw=true" style="margin-right: 50px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Khurd-dev&theme=github-compact&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7&area=true&hide_border=true&height=180&width=250" alt="GitHub contribution graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=github_dark&bg_color=0d1117&title_color=2F81F7&text_color=ffffff&hide_border=true" alt="Top Languages"/>
 <br>
 ---
 ### Development Timeline

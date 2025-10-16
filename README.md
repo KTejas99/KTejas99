@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 <br>
-<img align="right" alt="Coding" width="251" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/coder.gif?raw=true" style="margin: 150px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=github_dark&bg_color=0d1117&title_color=2F81F7&text_color=ffffff&border_color=2F81F7" alt="Top Languages"/>
+<img align="right" alt="Coding" width="251" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/coder.gif?raw=true" style="margin-right: 1500px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=github_dark&bg_color=0d1117&title_color=2F81F7&text_color=ffffff&border_color=2F81F7" alt="Top Languages" style="margin: 150px;"/>
 <br>
 
 ---

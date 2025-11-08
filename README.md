@@ -37,6 +37,11 @@ I am a passionate Computer Engineering student who loves turning ideas into scal
 
 ---
 
+## GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=github_dark&bg_color=0d1117&title_color=2F81F7&text_color=ffffff&border_color=2F81F7" alt="Top Languages" />
+
+---
+
 ## Development Timeline  
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline" /> 

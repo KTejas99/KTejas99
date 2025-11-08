@@ -44,12 +44,3 @@
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline" /> 
 </div>
-
-
-<div align="center">
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="180" alt="Campfire Animation" />
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="180" alt="Campfire Animation" />
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="180" alt="Campfire Animation" />
-</div>
-
-

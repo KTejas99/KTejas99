@@ -52,8 +52,9 @@ I am a passionate Computer Engineering student who loves turning ideas into scal
 ---
 
 <div align="center">
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="100" alt="Campfire Animation" />
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="100" alt="Campfire Animation" />
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="100" alt="Campfire Animation" />
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="180" alt="Campfire Animation" />
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="180" alt="Campfire Animation" />
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="180" alt="Campfire Animation" />
 </div>
+
 

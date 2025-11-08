@@ -3,7 +3,6 @@
 ### Computer Engineer & Open Source Contributor  
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=800&color=2F81F7&center=false&vCenter=true&width=500&lines=Building+scalable+solutions;Open+source+advocate;Problem+solver" alt="Professional tagline" />
 
----
 
 ## Tech Stack  
 <div align="left">
@@ -39,14 +38,12 @@ I am a passionate Computer Engineering student who loves turning ideas into scal
 ## GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=github_dark&bg_color=0d1117&title_color=2F81F7&text_color=ffffff&border_color=2F81F7" alt="Top Languages" />
 
----
 
 ## Development Timeline  
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline" /> 
 </div>
 
----
 
 <div align="center">
   <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/campfire_image.gif?raw=true" width="180" alt="Campfire Animation" />

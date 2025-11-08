@@ -49,8 +49,3 @@ I am a passionate Computer Engineering student who loves turning ideas into scal
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline" /> 
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/images/vocaloidchibi.png?raw=true" width="60%" alt="Personal Logo or Mascot" />
-</div>

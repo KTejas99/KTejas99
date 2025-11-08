@@ -32,7 +32,7 @@
 
 
 ## About Me  
-<span style="font-size:22px; font-weight:bold;">I am a passionate Computer Engineering student who loves turning ideas into scalable solutions. As an open-source contributor and problem solver, I strive to write clean, efficient code and continuously learn new technologies.</span>
+<span style="font-size:28px; font-weight:bold;">I am a passionate Computer Engineering student who loves turning ideas into scalable solutions. As an open-source contributor and problem solver, I strive to write clean, efficient code and continuously learn new technologies.</span>
 
 
 

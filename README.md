@@ -30,9 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
 </div>
 
----
 
-<img align="right" alt="Working Animation" width="251" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/boy_with_work.gif?raw=true">
 
 ## About Me  
 I am a passionate Computer Engineering student who loves turning ideas into scalable solutions. As an open-source contributor and problem solver, I strive to write clean, efficient code and continuously learn new technologies.

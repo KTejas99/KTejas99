@@ -61,20 +61,21 @@
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Khurd-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff" alt="GitHub Stats" />
+  <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2F81F7&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Khurd-dev&theme=radical" alt="Profile Details" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Khurd-dev&theme=radical" alt="Profile Details" />
 </div>
 
 ---
 
-## Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline" /> 

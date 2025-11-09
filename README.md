@@ -59,7 +59,7 @@
 ### Machine Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
 <img width="12" />
-<svg xmlns="http://www.w3.org/2000/svg" height="40" viewBox="0 0 256 256"><path fill="#130754" d="M151.684 50.423h51.253l-51.253 56.055zM99.814 204.506l-51.253 51.07h51.253z"/><path fill="#FFE873" d="m151.684 0-51.87 50.423h51.87zm0 255.576h51.253l-51.253-51.07z"/><path fill="#130754" d="M203.553 204.506V153.07l-51.869 51.436z"/><path fill="#E70488" d="m100.43 255.576 51.254-51.07h-51.253z"/><path fill="#130754" d="M100.43 0v51.436l51.254-51.07z"/><path fill="#E70488" d="M203.553 50.423V0l-51.869 50.423z"/><path fill="#FFE873" d="m203.553 204.506 51.87 51.07h-51.87zm-51.869-153.07L99.814 0h51.87z"/><path fill="#E70488" d="m.563 255.576 51.252-51.07H.563zm202.99-153.07 51.87-51.07h-51.87z"/><path fill="#130754" d="m203.553 102.436 51.87-51.07v51.07z"/><path fill="#FFE873" d="M.563 0v51.436L52.431 0z"/><path fill="#E70488" d="m99.814 102.436-51.253 51.07h51.253z"/><path fill="#FFE873" d="M.563 102.436v51.07l51.252-51.07z"/></svg>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
 
 </div>
 
@@ -91,10 +91,10 @@
 ### 💬 Connect With Me
 
 <a href="https://www.linkedin.com/in/tejas-khurd/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn" />
 </a>
 <a href="https://x.com/Khurd_Tejas">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI2Njc1ODAsIm5iZiI6MTc2MjY2NzI4MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA5VDA1NDgwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlMmRmNWY5ODQxNWI0NTRlYWFlNmRhNjg4OWIxMjAwZDBjNDhiZmJhZTEyNTMwZTFiMGU3NWQ2NzhlODFiZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.I2r9uh8WOpgxqi4_RLcPYif3GVTa_Sq-kJBk1rJyQ5A" width="100" alt="Twitter" />
 </a>
 <a href="mailto:tejaskhurd.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />

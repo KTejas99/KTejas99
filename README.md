@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Khurd-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff" alt="GitHub Stats" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline" /> 

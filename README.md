@@ -69,12 +69,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Khurd-dev&theme=radical&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7&sideLabels=ffffff" alt="GitHub Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Khurd-dev&theme=radical&utcOffset=5.5" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Khurd-dev&theme=radical" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Khurd-dev&theme=radical" alt="Profile Details" />
 </div>
 
 ---

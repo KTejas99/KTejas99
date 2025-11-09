@@ -49,11 +49,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 
 ### Machine Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
 
 </div>
 
@@ -63,11 +65,11 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejas-Khurd-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Khurd-dev&theme=radical&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7&sideLabels=ffffff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2F81F7&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2F81F7&text_color=ffffff" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Khurd-dev&theme=radical&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7&sideLabels=ffffff" alt="GitHub Streak" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Khurd-dev&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </div>
 
@@ -89,9 +91,9 @@
 
 ### 💬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-khurd/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khurd_Tejas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaskhurd.dev@gmail.com)
 
 </div>
 

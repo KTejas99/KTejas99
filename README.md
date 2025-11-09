@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Khurd-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2F81F7&text_color=ffffff" alt="Top Languages" />

@@ -13,8 +13,11 @@
 ## 👨‍💻 About Me
 
 🎓 I am a Second-year Computer Engineering student who loves turning ideas into scalable solutions.
+
 💡 As an open-source contributor and problem solver, I strive to write clean, efficient code and continuously learn new technologies.
+
 ⚙️ Skilled in frontend development, Python, Java, C, and data structures, I focus on creating innovative solutions that go beyond textbook knowledge.
+
 🌱 Currently expanding my expertise in machine learning and web development, while embracing challenges that foster continuous growth and real-world problem solving.
 
 ---

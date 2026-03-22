@@ -11,7 +11,6 @@ C++, Python, NumPy, Pandas
 HTML, CSS, Tailwind, JavaScript, React  
 Node.js, Express.js, MongoDB, MySQL  
 
-
 ### Currently
 
 Mastering web development  
@@ -19,6 +18,5 @@ Building backend systems and MERN stack projects
 
 ### ⚡ Fun Facts
 
-- Grinding ⚙️  
 - I prefer building over watching tutorials  
 - Always trying to level up  
